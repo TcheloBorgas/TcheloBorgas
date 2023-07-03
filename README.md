@@ -13,8 +13,6 @@
 ![TcheloBorgas Status](https://github-readme-stats.vercel.app/api?username=TcheloBorgas&show_icons=true&title_color=AE6DB1&icon_color=076EC8&text_color=99FFDC&bg_color=193549)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TcheloBorgas&layout=compact&title_color=AE6DB1&icon_color=076EC8&text_color=99FFDC&bg_color=193549)](https://github.com/anuraghazra/github-readme-stats)
 
-[![TcheloBorgas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TcheloBorgas&title_color=AE6DB1&icon_color=076EC8&text_color=99FFDC&bg_color=193549)]
-
-![Snake animation](https://github.com/TcheloBorgas/TcheloBorgas/blob/output/github-contribution-grid-snake.svg)
+![TcheloBorgas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TcheloBorgas&title_color=AE6DB1&icon_color=076EC8&text_color=99FFDC&bg_color=193549)
 
 </div>
